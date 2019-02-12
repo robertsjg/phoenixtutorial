@@ -1,6 +1,6 @@
 # Phoenixtutorial
 
-**TODO: Add description**
+**Learn Elixir ( & Phoenix at some point )**
 
 ## Installation
 
